@@ -1,2 +1,2 @@
 # Rural_Learn
-Rural Learn: Empowering Future A Full stack project
+Rural Learn: Empowering Future transforms rural education. We provide easy access to study materials and connect learners with mentors for personalized learning. Skill tracking helps to boost their education. We bridge the digital gap, offering digital platforms and info on grants and jobs. This empowers financially disadvantaged individuals, leaving no one behind. Our hub continually improves, allocating resources for betterment
